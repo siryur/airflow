@@ -66,6 +66,6 @@ PLEASE DO NOT MODIFY THE HASH BELOW! IT IS AUTOMATICALLY UPDATED BY PRE-COMMIT.
 
 ---------------------------------------------------------------------------------------------------------
 
-Package config hash: Missing file /usr/local/google/home/uladaz/Documents/Project/Airflow/airflow/dev/breeze/setup.py
+Package config hash: 4d3ff63c9293cb1ba6e15e449280e06dc11914c771c4fbd1947bc0ee6a703ed6a4a7ddc99fde599d1a31da4f968f3cd1aed2025b149a62b151d0ecf044dfefea
 
 ---------------------------------------------------------------------------------------------------------
